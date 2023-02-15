@@ -1,7 +1,7 @@
 # Penguin-EDA
 
 ### Introduction
-This report presents a detailed data analysis of a chosen dataset. The aim of this project is to showcase the skills developed and to present a professional report.
+This report presents a detailed data analysis of a Penguin dataset. The aim of this project is to showcase the skills developed and to present a professional report.
 
 ### Dataset Description
 The dataset used in this project is the "Penguins" dataset, which contains information about various species of penguins. The dataset contains information on various physical characteristics of penguins, including:
